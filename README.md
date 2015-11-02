@@ -1,5 +1,5 @@
 # Milli
-HTTP Client for Alexa's top 1 Million Websites
+Traffic Generator using Alexa's top 1 Million Websites
 
 ## Overview
 

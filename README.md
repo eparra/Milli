@@ -23,7 +23,7 @@ $ go build milli.go
 ```bash
 $ curl -O http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 $ unzip top-1m.csv.zip 
-$ ./milli.go
+$ ./milli
 ```
 
 ### To-Do List
